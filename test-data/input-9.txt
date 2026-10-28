@@ -1,0 +1,3 @@
+# ALL módban a primary store üres
+GT4500,0,0,1,0
+TORPEDO,ALL

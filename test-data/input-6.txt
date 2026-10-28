@@ -1,0 +1,3 @@
+# Üres primary-store
+GT4500,0,0,10,0
+TORPEDO,SINGLE # A secondary storeból lő

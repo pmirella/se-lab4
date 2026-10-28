@@ -1,0 +1,3 @@
+# Egyik store-ban sincs torpedó
+GT4500,0,0,0,0
+TORPEDO,SINGLE 
