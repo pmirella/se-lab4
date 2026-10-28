@@ -1,0 +1,4 @@
+# SINGLE ha a következő store üres, akkor a másik lő
+GT4500,10,0,0,0
+TORPEDO,SINGLE 
+TORPEDO,SINGLE  # mindkétszer a primary store-ból kell lőnie

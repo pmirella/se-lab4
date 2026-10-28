@@ -1,0 +1,3 @@
+# SINGLE módban hiba esetén nincs lövés
+GT4500,10,1,1,1
+TORPEDO,SINGLE # Biztosan hibát kell kapnunk

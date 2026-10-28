@@ -1,0 +1,4 @@
+# SINGLE módban váltakozva lőnek a torpedók
+GT4500,10,0,10,0
+TORPEDO,SINGLE 
+TORPEDO,SINGLE # Az előző a primary store-ból, ez pedig a secondary storeból lő

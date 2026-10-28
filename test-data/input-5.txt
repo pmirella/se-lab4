@@ -1,0 +1,3 @@
+# ALL mód esetén mindkét store lő
+GT4500,10,0,10,0
+TORPEDO,ALL # Mindkét store-ban van torpedő, mindkettő lő
